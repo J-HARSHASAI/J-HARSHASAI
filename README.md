@@ -245,6 +245,13 @@ https://www.codechef.com/users/vvit23bq1a6148
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=J-HARSHASAI&style=flat-square&color=58A6FF" />
+</p>
+
+<p align="center">
+  <i>"Build with purpose. Code with curiosity. Create with impact."</i>
+</p>
 
 # 🤝 Connect With Me
 
