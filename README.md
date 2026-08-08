@@ -364,14 +364,6 @@ A mobile application designed to improve access to information about government 
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-HARSHASAI&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 
 
 <!-- ===================== FOOTER ===================== -->
