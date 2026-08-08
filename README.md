@@ -29,7 +29,7 @@
 <!-- ===================== TYPING ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning;Full-Stack+Developer;Data+Analytics+Enthusiast;Software+Developer;Problem+Solver"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning;Full-Stack+Developer;Data+Analytics+Enthusiast;Software+Developer;AI+Application+Builder"/>
 </p>
 
 <p align="center">
@@ -142,11 +142,14 @@
 
 # 🔥 Featured Projects
 
-## 🤖 AI-Based Deepfake Detection System
+<details>
+<summary><strong>🤖 AI-Based Deepfake Detection System</strong></summary>
+
+### 📌 Description
 
 A full-stack AI application designed to identify manipulated media using deep learning models.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -157,20 +160,41 @@ A full-stack AI application designed to identify manipulated media using deep le
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-**Highlights**
+### ✨ Highlights
 
-- Developed a deep learning-based deepfake detection system.
-- Achieved **81% detection accuracy** on test video samples.
-- Built a **Chrome Extension** for real-time detection.
-- Developed a high-performance backend using **FastAPI**.
+| Metric | Details |
+|---|---|
+| **Accuracy** | 81% detection accuracy on test video samples |
+| **AI Model** | Custom-trained deep learning model |
+| **Backend** | FastAPI |
+| **Frontend** | React.js + Vite |
+| **Extension** | Chrome Extension for real-time detection |
+| **Deployment** | Docker |
 
----
+### 🚀 Key Features
 
-## 🎓 EDUCAREER — Education Career Platform
+- 🎥 Detects manipulated/deepfake video content
+- 🧠 Uses deep learning for classification
+- 🌐 Full-stack web interface
+- 🔌 Chrome Extension for real-time detection
+- ⚡ FastAPI backend for efficient inference
+- 🐳 Dockerized application
 
-A career guidance platform designed to help students explore educational and career opportunities.
+### 🔗 Links
 
-**Tech Stack**
+**GitHub:** [View Repository](https://github.com/J-HARSHASAI/deep_fake)
+
+</details>
+
+
+<details>
+<summary><strong>🎓 EDUCAREER — Education Career Platform</strong></summary>
+
+### 📌 Description
+
+A career guidance platform designed to help students explore educational opportunities, career paths and relevant resources.
+
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -182,19 +206,38 @@ A career guidance platform designed to help students explore educational and car
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Highlights**
+### ✨ Highlights
 
-- Developed a platform connecting students with career and educational resources.
-- Organized career information into an accessible and user-friendly interface.
-- Designed responsive interfaces for better user engagement.
+| Metric | Details |
+|---|---|
+| **Platform** | Career & education guidance |
+| **Frontend** | React.js |
+| **Routing** | React Router |
+| **Deployment** | Netlify |
+| **Focus** | Student career guidance |
 
----
+### 🚀 Key Features
 
-## ❤️ Cardiovascular Risk Stratification via Retinal Imaging
+- 🎓 Career exploration
+- 🏫 Educational opportunities
+- 📚 Career resources
+- 🧭 Career roadmaps
+- 📱 Responsive user interface
+- 🔎 Student-friendly information structure
 
-A deep learning project for cardiovascular risk classification using retinal images.
 
-**Tech Stack**
+
+</details>
+
+
+<details>
+<summary><strong>❤️ Cardiovascular Risk Stratification via Retinal Imaging</strong></summary>
+
+### 📌 Description
+
+A deep learning project that uses retinal images to classify cardiovascular risk using transfer learning.
+
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -203,30 +246,61 @@ A deep learning project for cardiovascular risk classification using retinal ima
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-**Highlights**
+### ✨ Highlights
 
-- Implemented transfer learning using **ResNet-50**.
-- Performed retinal image preprocessing using **OpenCV**.
-- Achieved **74.3% validation accuracy**.
-- Obtained an **AUC of 0.82**.
+| Metric | Details |
+|---|---|
+| **Model** | ResNet-50 |
+| **Approach** | Transfer Learning |
+| **Validation Accuracy** | 74.3% |
+| **AUC** | 0.82 |
+| **Image Processing** | OpenCV |
+| **Interface** | Streamlit |
 
----
+### 🚀 Key Features
 
-## 🇮🇳 JanSeva — Government Welfare App
+- 🧠 Transfer learning using ResNet-50
+- 👁️ Retinal image preprocessing
+- 📊 Cardiovascular risk classification
+- 📈 Model evaluation using accuracy and AUC
+- 🖥️ Streamlit-based interface
 
-A mobile application designed to improve access to information about government welfare schemes in rural India.
+</details>
 
-**Tech Stack**
+
+<details>
+<summary><strong>🇮🇳 JanSeva — Government Welfare App</strong></summary>
+
+### 📌 Description
+
+A mobile application designed to improve access to information about government welfare schemes, particularly for users in rural India.
+
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Integration-1F3B73?style=for-the-badge"/>
 </p>
 
-**Highlights**
+### ✨ Highlights
 
-- Designed a mobile-first solution for accessing welfare scheme information.
-- Focused on reducing the information gap between government schemes and citizens.
+| Metric | Details |
+|---|---|
+| **Platform** | Mobile Application |
+| **Framework** | Flutter |
+| **Integration** | REST/API Integration |
+| **Focus** | Government welfare schemes |
+| **Target Users** | Rural communities |
+
+### 🚀 Key Features
+
+- 🏛️ Government welfare scheme information
+- 📱 Mobile-first interface
+- 🔎 Easy access to scheme details
+- 🌐 API-based information integration
+- 🤝 Designed to reduce the information gap
+
+</details>
 
 ---
 
@@ -250,9 +324,7 @@ A mobile application designed to improve access to information about government 
 </p>
 
 - ⭐ **4★ CodeChef Rated Programmer**
-- 🧩 Strong interest in **Competitive Programming & Data Structures and Algorithms**
 - 🚀 Continuously improving problem-solving and algorithmic skills
-
 
 ---
 
@@ -264,13 +336,13 @@ A mobile application designed to improve access to information about government 
 
 ---
 
-# 📈 Currently Working On
+# 🎯 Current Focus
 
-- 🧩 **Data Structures & Algorithms**
-- 🤖 **Machine Learning & Deep Learning**
-- 🌐 **Full-Stack Development**
-- 📊 **Data Analytics**
-- ☁️ **Cloud & Generative AI**
+- 🤖 **AI/ML & Deep Learning** — building practical intelligent applications
+- 🧠 **Generative AI & LLMs** — exploring LLM-based applications and AI tools
+- 🧩 **Data Structures & Algorithms** — strengthening problem-solving for technical interviews
+- 🌐 **Full-Stack Development** — developing and deploying AI-powered web applications
+- 📊 **Data Analytics** — applying Python, Pandas and EDA to real-world datasets
 
 ---
 
@@ -280,10 +352,7 @@ A mobile application designed to improve access to information about government 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-HARSHASAI&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-HARSHASAI&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-HARSHASAI&theme=tokyonight" width="45%" />
-</p>
+
 
 ---
 
