@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F3B73,100:4C78C2&height=230&section=header&text=Harsha%20Vardhan%20Sai%20Sumanth&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=65&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F3B73,100:4C78C2&height=230&section=header&text=Harsha%20Vardhan%20Jonnalagadda&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=AI%2FML%20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=65&descColor=FFFFFF"/>
 
 <p>
   <a href="https://www.linkedin.com/in/harsha-vardhan-jonnalagadda-286bb8312">
